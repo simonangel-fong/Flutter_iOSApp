@@ -49,3 +49,9 @@ flutter run
 ![basic](./doc/pic/basic01.png)
 
 ![basic](./doc/pic/basic02.png)
+
+---
+
+## Documentation
+
+- [Doc V0.1](./doc/v0_1.md)
