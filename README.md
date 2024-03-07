@@ -54,4 +54,8 @@ flutter run
 
 ## Documentation
 
+<<<<<<< HEAD
+- [Firebase](./doc/firebase/firebase.md)
+=======
 - [Doc V0.1](./doc/v0_1.md)
+>>>>>>> 26d53a898910b139da101202b41e2b0d47994015
